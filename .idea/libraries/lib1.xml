@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/GithubApiTest/src/lib/commons-beanutils-1.9.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GithubApiTest/src/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GithubApiTest/src/lib/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GithubApiTest/src/lib/commons-collections4-4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GithubApiTest/src/lib/commons-lang-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GithubApiTest/src/lib/ezmorph-1.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GithubApiTest/src/lib/commons-collections-3.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GithubApiTest/src/lib/json-lib-2.4-jdk15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GithubApiTest/src/lib/commons-lang3-3.8.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

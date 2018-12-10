@@ -158,7 +158,7 @@ public class ApiTest {
 		String requestUrl = "https://api.github.com/users/FIRHQ/repos"; 
 		//使用github API 进行https请求 需要使用github账号密码登陆
 		String username = "786200288@qq.com";
-    	String password = "zhuming0014";
+    	String password = "zhuming52hz";
 		
 		List jsonList = jsonGet(requestUrl , username + ":" + password);
 		saveFile(jsonList);
